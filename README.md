@@ -119,12 +119,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built as part of a React learning project
 - Uses Google Fonts (Karla) for typography
 
-## 📞 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/tenzies-dice-game](https://github.com/yourusername/tenzies-dice-game)
-
 ---
-
-⭐ **Star this repository if you found it helpful!**
